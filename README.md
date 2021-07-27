@@ -1,4 +1,4 @@
-# mnist
+# Mnist
 mnist handwritten dataset
 
 1. This repository contains handwritten mnist dataset. The train and test data is collected from kaggle competition.
